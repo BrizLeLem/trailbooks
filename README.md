@@ -1,4 +1,4 @@
-- Plan your trail accommodation. -
+Plan your trail accommodation.
 For self guided hikers to find and reserve mountain huts and campsites on popular trails.
 
 1. Select your trail
