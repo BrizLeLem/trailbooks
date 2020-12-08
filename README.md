@@ -1,3 +1,8 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Plan your trail accommodation
+For self guided hikers to find and reserve mountain huts and campsites on popular trails
+
+1. Select your trail
+2. Build your itinerary
+3. Make reservations
 
 www.trailbooks.de
